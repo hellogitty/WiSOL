@@ -150,41 +150,41 @@
 <packages>
 <package name="WSSFM10">
 <description>longer pads to enable handsolder</description>
-<smd name="P$1" x="-6.5" y="6" dx="2" dy="0.7" layer="1"/>
-<smd name="P$2" x="-6.5" y="4.9" dx="2" dy="0.7" layer="1"/>
-<smd name="P$3" x="-6.5" y="3.8" dx="2" dy="0.7" layer="1"/>
-<smd name="P$4" x="-6.5" y="2.7" dx="2" dy="0.7" layer="1"/>
-<smd name="P$5" x="-6.5" y="1.6" dx="2" dy="0.7" layer="1"/>
-<smd name="P$6" x="-6.5" y="0.5" dx="2" dy="0.7" layer="1"/>
-<smd name="P$7" x="-6.5" y="-0.6" dx="2" dy="0.7" layer="1"/>
-<smd name="P$8" x="-6.5" y="-1.7" dx="2" dy="0.7" layer="1"/>
-<smd name="P$9" x="-6.5" y="-2.8" dx="2" dy="0.7" layer="1"/>
-<smd name="P$10" x="-6.5" y="-3.9" dx="2" dy="0.7" layer="1"/>
-<smd name="P$11" x="-6.5" y="-5" dx="2" dy="0.7" layer="1"/>
-<smd name="P$12" x="-6.5" y="-6.1" dx="2" dy="0.7" layer="1"/>
+<smd name="1" x="-6.5" y="6" dx="2" dy="0.7" layer="1"/>
+<smd name="2" x="-6.5" y="4.9" dx="2" dy="0.7" layer="1"/>
+<smd name="3" x="-6.5" y="3.8" dx="2" dy="0.7" layer="1"/>
+<smd name="4" x="-6.5" y="2.7" dx="2" dy="0.7" layer="1"/>
+<smd name="5" x="-6.5" y="1.6" dx="2" dy="0.7" layer="1"/>
+<smd name="6" x="-6.5" y="0.5" dx="2" dy="0.7" layer="1"/>
+<smd name="7" x="-6.5" y="-0.6" dx="2" dy="0.7" layer="1"/>
+<smd name="8" x="-6.5" y="-1.7" dx="2" dy="0.7" layer="1"/>
+<smd name="9" x="-6.5" y="-2.8" dx="2" dy="0.7" layer="1"/>
+<smd name="10" x="-6.5" y="-3.9" dx="2" dy="0.7" layer="1"/>
+<smd name="11" x="-6.5" y="-5" dx="2" dy="0.7" layer="1"/>
+<smd name="12" x="-6.5" y="-6.1" dx="2" dy="0.7" layer="1"/>
 <wire x1="-6.5" y1="7.5" x2="6.5" y2="7.5" width="0.127" layer="21"/>
 <wire x1="6.5" y1="7.5" x2="6.5" y2="-7.6" width="0.127" layer="21"/>
 <wire x1="6.5" y1="-7.6" x2="-6.5" y2="-7.6" width="0.127" layer="21"/>
 <wire x1="-6.5" y1="-7.6" x2="-6.5" y2="7.5" width="0.127" layer="21"/>
-<smd name="P$13" x="-3.3" y="-7.6" dx="2" dy="0.7" layer="1" rot="R90"/>
-<smd name="P$14" x="-2.2" y="-7.6" dx="2" dy="0.7" layer="1" rot="R90"/>
-<smd name="P$15" x="-1.1" y="-7.6" dx="2" dy="0.7" layer="1" rot="R90"/>
-<smd name="P$16" x="0" y="-7.6" dx="2" dy="0.7" layer="1" rot="R90"/>
-<smd name="P$17" x="1.1" y="-7.6" dx="2" dy="0.7" layer="1" rot="R90"/>
-<smd name="P$18" x="2.2" y="-7.6" dx="2" dy="0.7" layer="1" rot="R90"/>
-<smd name="P$19" x="3.3" y="-7.6" dx="2" dy="0.7" layer="1" rot="R90"/>
-<smd name="P$20" x="6.5" y="-6.1" dx="2" dy="0.7" layer="1" rot="R180"/>
-<smd name="P$21" x="6.5" y="-5" dx="2" dy="0.7" layer="1" rot="R180"/>
-<smd name="P$22" x="6.5" y="-3.9" dx="2" dy="0.7" layer="1" rot="R180"/>
-<smd name="P$23" x="6.5" y="-2.8" dx="2" dy="0.7" layer="1" rot="R180"/>
-<smd name="P$24" x="6.5" y="-1.7" dx="2" dy="0.7" layer="1" rot="R180"/>
-<smd name="P$25" x="6.5" y="-0.6" dx="2" dy="0.7" layer="1" rot="R180"/>
-<smd name="P$26" x="6.5" y="0.5" dx="2" dy="0.7" layer="1" rot="R180"/>
-<smd name="P$27" x="6.5" y="1.6" dx="2" dy="0.7" layer="1" rot="R180"/>
-<smd name="P$28" x="6.5" y="2.7" dx="2" dy="0.7" layer="1" rot="R180"/>
-<smd name="P$29" x="6.5" y="3.8" dx="2" dy="0.7" layer="1" rot="R180"/>
-<smd name="P$30" x="6.5" y="4.9" dx="2" dy="0.7" layer="1" rot="R180"/>
-<smd name="P$31" x="6.5" y="6" dx="2" dy="0.7" layer="1" rot="R180"/>
+<smd name="13" x="-3.3" y="-7.6" dx="2" dy="0.7" layer="1" rot="R90"/>
+<smd name="14" x="-2.2" y="-7.6" dx="2" dy="0.7" layer="1" rot="R90"/>
+<smd name="15" x="-1.1" y="-7.6" dx="2" dy="0.7" layer="1" rot="R90"/>
+<smd name="16" x="0" y="-7.6" dx="2" dy="0.7" layer="1" rot="R90"/>
+<smd name="17" x="1.1" y="-7.6" dx="2" dy="0.7" layer="1" rot="R90"/>
+<smd name="18" x="2.2" y="-7.6" dx="2" dy="0.7" layer="1" rot="R90"/>
+<smd name="19" x="3.3" y="-7.6" dx="2" dy="0.7" layer="1" rot="R90"/>
+<smd name="20" x="6.5" y="-6.1" dx="2" dy="0.7" layer="1" rot="R180"/>
+<smd name="21" x="6.5" y="-5" dx="2" dy="0.7" layer="1" rot="R180"/>
+<smd name="22" x="6.5" y="-3.9" dx="2" dy="0.7" layer="1" rot="R180"/>
+<smd name="23" x="6.5" y="-2.8" dx="2" dy="0.7" layer="1" rot="R180"/>
+<smd name="24" x="6.5" y="-1.7" dx="2" dy="0.7" layer="1" rot="R180"/>
+<smd name="25" x="6.5" y="-0.6" dx="2" dy="0.7" layer="1" rot="R180"/>
+<smd name="26" x="6.5" y="0.5" dx="2" dy="0.7" layer="1" rot="R180"/>
+<smd name="27" x="6.5" y="1.6" dx="2" dy="0.7" layer="1" rot="R180"/>
+<smd name="28" x="6.5" y="2.7" dx="2" dy="0.7" layer="1" rot="R180"/>
+<smd name="29" x="6.5" y="3.8" dx="2" dy="0.7" layer="1" rot="R180"/>
+<smd name="30" x="6.5" y="4.9" dx="2" dy="0.7" layer="1" rot="R180"/>
+<smd name="31" x="6.5" y="6" dx="2" dy="0.7" layer="1" rot="R180"/>
 <wire x1="-2.905028125" y1="3.01213125" x2="-3.046446875" y2="3.153553125" width="0.127" layer="21"/>
 <wire x1="-3.046446875" y1="3.153553125" x2="-3.68284375" y2="3.648528125" width="0.127" layer="21" curve="14.250033"/>
 <wire x1="-3.68284375" y1="3.648528125" x2="-3.9656875" y2="3.789946875" width="0.127" layer="21" curve="8.369896"/>
@@ -224,7 +224,14 @@
 <wire x1="-3.1" y1="3.2" x2="-3.1" y2="1.9" width="0.127" layer="21"/>
 <circle x="-4.2" y="6" radius="0.22360625" width="0.127" layer="21"/>
 <text x="-1.2" y="2.9" size="1.27" layer="21">WiSOL</text>
-<text x="-1.2" y="1.3" size="1.27" layer="21">SFM10</text>
+<text x="-1.2" y="1.2" size="1.27" layer="21">SFM10</text>
+<wire x1="-6.5" y1="7.5" x2="-6.5" y2="12.5" width="0.127" layer="21"/>
+<wire x1="-6.5" y1="12.5" x2="6.5" y2="12.5" width="0.127" layer="21"/>
+<wire x1="6.5" y1="12.5" x2="6.5" y2="7.5" width="0.127" layer="21"/>
+<text x="1.7" y="6.7" size="0.6096" layer="21">ver R1 &amp; R3</text>
+<text x="1.7" y="11.7" size="0.6096" layer="21">ver R2 &amp; R4</text>
+<text x="-6.35" y="12.7" size="0.6096" layer="25">&gt;NAME</text>
+<text x="6.35" y="13.97" size="0.6096" layer="27" rot="R180">&gt;VALUE</text>
 </package>
 </packages>
 <symbols>
@@ -265,7 +272,8 @@
 <pin name="ANTENNA" x="27.94" y="17.78" length="middle" direction="out" rot="R180"/>
 <pin name="GND@9" x="27.94" y="20.32" length="middle" direction="sup" rot="R180"/>
 <text x="-5.08" y="17.78" size="1.778" layer="97">WISOL</text>
-<text x="-5.08" y="12.7" size="1.778" layer="97">SFM10</text>
+<text x="-22.86" y="26.67" size="1.778" layer="95">&gt;NAME</text>
+<text x="22.86" y="-26.67" size="1.778" layer="96" rot="R180">&gt;VALUE</text>
 </symbol>
 </symbols>
 <devicesets>
@@ -277,37 +285,37 @@
 <devices>
 <device name="'HANDSOLDER'" package="WSSFM10">
 <connects>
-<connect gate="G$1" pin="/RST" pad="P$19"/>
-<connect gate="G$1" pin="ANTENNA" pad="P$30"/>
-<connect gate="G$1" pin="CPU_LED" pad="P$11"/>
-<connect gate="G$1" pin="DBG_EN/NC" pad="P$18"/>
-<connect gate="G$1" pin="GND@1" pad="P$1"/>
-<connect gate="G$1" pin="GND@10" pad="P$27"/>
-<connect gate="G$1" pin="GND@2" pad="P$2"/>
-<connect gate="G$1" pin="GND@3" pad="P$3"/>
-<connect gate="G$1" pin="GND@4" pad="P$4"/>
-<connect gate="G$1" pin="GND@5" pad="P$20"/>
-<connect gate="G$1" pin="GND@6" pad="P$22"/>
-<connect gate="G$1" pin="GND@7" pad="P$28"/>
-<connect gate="G$1" pin="GND@8" pad="P$29"/>
-<connect gate="G$1" pin="GND@9" pad="P$31"/>
-<connect gate="G$1" pin="GPIO0" pad="P$23"/>
-<connect gate="G$1" pin="GPIO1" pad="P$24"/>
-<connect gate="G$1" pin="GPIO2" pad="P$25"/>
-<connect gate="G$1" pin="GPIO3" pad="P$26"/>
-<connect gate="G$1" pin="GPIO4" pad="P$10"/>
-<connect gate="G$1" pin="GPIO5" pad="P$9"/>
-<connect gate="G$1" pin="GPIO6" pad="P$8"/>
-<connect gate="G$1" pin="GPIO7" pad="P$7"/>
-<connect gate="G$1" pin="GPIO8" pad="P$6"/>
-<connect gate="G$1" pin="GPIO9" pad="P$13"/>
-<connect gate="G$1" pin="RADIO_LED" pad="P$12"/>
-<connect gate="G$1" pin="RXLED/DBG_DATA" pad="P$16"/>
-<connect gate="G$1" pin="SYSCLK/NC" pad="P$5"/>
-<connect gate="G$1" pin="TXLED/DBG_CLK" pad="P$17"/>
-<connect gate="G$1" pin="UART_RX" pad="P$15"/>
-<connect gate="G$1" pin="UART_TX" pad="P$14"/>
-<connect gate="G$1" pin="VDD_IO" pad="P$21"/>
+<connect gate="G$1" pin="/RST" pad="19"/>
+<connect gate="G$1" pin="ANTENNA" pad="30"/>
+<connect gate="G$1" pin="CPU_LED" pad="11"/>
+<connect gate="G$1" pin="DBG_EN/NC" pad="18"/>
+<connect gate="G$1" pin="GND@1" pad="1"/>
+<connect gate="G$1" pin="GND@10" pad="27"/>
+<connect gate="G$1" pin="GND@2" pad="2"/>
+<connect gate="G$1" pin="GND@3" pad="3"/>
+<connect gate="G$1" pin="GND@4" pad="4"/>
+<connect gate="G$1" pin="GND@5" pad="20"/>
+<connect gate="G$1" pin="GND@6" pad="22"/>
+<connect gate="G$1" pin="GND@7" pad="28"/>
+<connect gate="G$1" pin="GND@8" pad="29"/>
+<connect gate="G$1" pin="GND@9" pad="31"/>
+<connect gate="G$1" pin="GPIO0" pad="23"/>
+<connect gate="G$1" pin="GPIO1" pad="24"/>
+<connect gate="G$1" pin="GPIO2" pad="25"/>
+<connect gate="G$1" pin="GPIO3" pad="26"/>
+<connect gate="G$1" pin="GPIO4" pad="10"/>
+<connect gate="G$1" pin="GPIO5" pad="9"/>
+<connect gate="G$1" pin="GPIO6" pad="8"/>
+<connect gate="G$1" pin="GPIO7" pad="7"/>
+<connect gate="G$1" pin="GPIO8" pad="6"/>
+<connect gate="G$1" pin="GPIO9" pad="13"/>
+<connect gate="G$1" pin="RADIO_LED" pad="12"/>
+<connect gate="G$1" pin="RXLED/DBG_DATA" pad="16"/>
+<connect gate="G$1" pin="SYSCLK/NC" pad="5"/>
+<connect gate="G$1" pin="TXLED/DBG_CLK" pad="17"/>
+<connect gate="G$1" pin="UART_RX" pad="15"/>
+<connect gate="G$1" pin="UART_TX" pad="14"/>
+<connect gate="G$1" pin="VDD_IO" pad="21"/>
 </connects>
 <technologies>
 <technology name=""/>
