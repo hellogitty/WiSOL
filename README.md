@@ -1,5 +1,5 @@
 # WiSOL
-Eagle Library, BoB and other moduels and (in near future) demo source codes for WiSOL Sigfox Modules (maybe other repo)
+Eagle Library, BoB and other moduls and (in near future) demo source codes for WiSOL Sigfox Modules (maybe other repo)
 
 Welcome to the WiSOL Github page made by GREATECH GmbH to support the WSSFM10 Sigfox Modules by WiSOL.<br>
 We like to add here (Eagle) CAD library, schematics (eg. BoB Module) and demo projects for different MCUs using the Sigfox modules.
